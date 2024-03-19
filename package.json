@@ -1,35 +1,27 @@
 {
   "name": "nodejs_express_mongo",
   "version": "1.0.0",
-  "description": "Laboratorio API REST con MongoBD",
+  "description": "\"Laboratorio API REST con MongoDB\", \"MAIN: \"index.js\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashernadez/NodeJS_Express_MongoBD.git"
+    "url": "{ \"type\": \"git\", \"url\": \"git+https://github.com/fernando2349/NodeJS_Express_Mongo.git\"} "
   },
   "keywords": [
-    "NodeJS",
-    "Express",
-    "MongoBD",
-    "API",
-    "REST",
-    "Backend"
+    "[\"NodeJS\"",
+    "\"Express\"",
+    "\"MongoDB\"",
+    "\"API\"",
+    "\"REST\"",
+    "\"Backend\"]"
   ],
-  "author": "Ana Sofia Hernandez",
+  "author": "\"Mario Fernando Prada Tamara\"",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ashernadez/NodeJS_Express_MongoBD/issues"
-  },
-  "homepage": "https://github.com/ashernadez/NodeJS_Express_MongoBD#readme",
-  "devDependencies": {
-    "nodemon": "^3.1.0"
-  },
   "dependencies": {
     "@hapi/joi": "^17.1.1",
-    "express": "^4.18.3",
     "mongoose": "^8.2.1"
   }
 }
